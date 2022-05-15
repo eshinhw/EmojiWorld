@@ -61,5 +61,9 @@ dependencies {
 
     implementation 'com.google.android.gms:play-services-auth:20.2.0'
 
+    // FirebaseUI for Cloud Firestore
+    implementation 'com.firebaseui:firebase-ui-firestore:8.0.1'
+
+    implementation 'com.google.firebase:firebase-firestore-ktx'
 
 }
