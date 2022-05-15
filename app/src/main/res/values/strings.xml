@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">EmojiWorld</string>
+<!--    <string name="your_web_client_id">81544138210-qnfck8tp95fl11p0fk9p2ig3fv1bakm2.apps.googleusercontent.com</string>-->
+<!--    <string name="default_web_client_id" translatable="false">81544138210-ol3aso9f9us1p1g7onmqgu90utrke3lq.apps.googleusercontent.com</string>-->
+<!--    <string name="gcm_defaultSenderId" translatable="false">81544138210</string>-->
+<!--    <string name="google_api_key" translatable="false">AIzaSyCh79uL8IEzOf05kryS0S_CKTbgMgoZSJU</string>-->
+<!--    <string name="google_app_id" translatable="false">1:81544138210:android:e85694af09892b54377dbb</string>-->
+<!--    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCh79uL8IEzOf05kryS0S_CKTbgMgoZSJU</string>-->
+<!--    <string name="google_storage_bucket" translatable="false">emoji-world-6a81b.appspot.com</string>-->
+<!--    <string name="project_id" translatable="false">emoji-world-6a81b</string>-->
 </resources>
